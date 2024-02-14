@@ -1,0 +1,14 @@
+Asset Name:NewPIR
+Asset Type:Sensor
+Driver:PIR2
+!Multipe tasks and Kpi may be defined
+Task:DetectsDoorOpening
+Kpi:
+KpiParam:SpeedOfReaction
+KpiUnit:milliseconds
+KpiValue:9
+Kpi:
+KpiParam:Sensitivity
+KpiUnit: meter
+KpiValue:9
+
