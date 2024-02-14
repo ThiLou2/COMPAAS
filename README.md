@@ -1,5 +1,5 @@
 # COMPAAS
-COMPASS ontology, with knowledge graph associated and software element to run a composition of assets in the framework on Industry4.0
+COMPASS ontology, with an example of knowledge graph associated (COMPAK) and software element to run a composition of assets in the framework on Industry4.0
 
 To run the compoistion, use "python ./ChainControl.py"
 The prompt will then offer you to run the composition, that will start OPC-UA server and client-side (approx. 20 seconds to be done)
